@@ -1,0 +1,151 @@
+body{
+    background-color: #E6E6E6;
+}
+
+header {
+    background-color: #f4f6f7;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+
+nav {
+    float: left;
+    background: #f4f6f7;
+    padding: 10px;
+    margin-top: 20px;
+    border:1px solid black;
+    
+}
+
+
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align:center;
+    color: white;
+    margin-top: 80px;
+
+
+
+}
+
+.Paragraphe{
+	margin-left: 400px;
+    text-align: justify;
+}
+
+.Profil{
+	margin-left: 1500px;
+}
+
+.Titlearticle{
+    margin-left: 400px;
+    font-family: : Arial;
+}
+
+.ParagrapheA{
+    margin-left: 400px;
+    margin-right: 450px;
+    text-align: justify;
+    font-family: : Arial;
+    
+}
+#Auto{
+    margin-left: 1500px;
+    
+
+}
+#List {
+    margin-left: 380px;
+    text-align: : justify;
+    margin-right: 450px;
+    
+
+}
+
+#Picture1{
+    text-align: right;
+    left: 1150px;
+    position: absolute;
+    top: 400px;
+    border: 1px solid black;
+
+}
+
+#Picture2{
+    text-align: right;
+    left: 1150px;
+    position: absolute;
+    top: 650px;
+    border: 1px solid black;
+    width: 170px;
+
+}
+#Des1{
+    position: absolute;
+    left: 1150px;
+    top: 520px;
+}
+
+#Des2{
+    position: absolute;
+    left: 1150px;
+    top: 770px;
+}
+
+#Picture3{
+    text-align: right;
+    left: 1150px;
+    position: absolute;
+    top: 400px;
+    border: 1px solid black;
+    width: 170px;
+
+}
+
+#Picture4{
+    text-align: right;
+    left: 1150px;
+    position: absolute;
+    top: 650px;
+    width: 170px;
+    border: 1px solid black;
+}
+
+#Des3{
+    position: absolute;
+    left: 1150px;
+    top: 520px;
+}
+
+#Des4{
+    position: absolute;
+    left: 1150px;
+    top: 770px;
+}
+
+.Logobottom{
+    border: 1px solid black;
+    position: relative;
+    left: 500px;
+    width: 400px;
+    top: 30px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
